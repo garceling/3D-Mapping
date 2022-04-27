@@ -4,6 +4,6 @@
 - Generates a 3d map of its surroudnings with Open3D
 - Built using a Texas Instrument MSP432E401Y microcontroller and Time of Flight sensor. 
 
-<img src="Images/System.jpeg" width="400" height="600">
+<img src="Images/System.jpeg" width="400" height="500">
 
 
