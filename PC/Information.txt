@@ -1,0 +1,2 @@
+The data collection is for when the actual system is running and collecting data
+The data visual is to be run to see the 3D hallway in my house ( the data for this is in the data_final txt file)
